@@ -1,0 +1,32 @@
+[
+  {
+    "url": "/assets/images/proj-residential.jpg",
+    "caption": "AutoCAD G+2 Elevation View",
+    "type": "AutoCAD Drawings"
+  },
+  {
+    "url": "/assets/images/proj-revit-3d.jpg",
+    "caption": "Revit Modern Villa Render",
+    "type": "Revit Models"
+  },
+  {
+    "url": "/assets/images/gallery-site1.jpg",
+    "caption": "Structural Rebar Binding Inspection",
+    "type": "Site Visits"
+  },
+  {
+    "url": "/assets/images/proj-commercial.jpg",
+    "caption": "BIM Structural Framing Wireframe",
+    "type": "Revit Models"
+  },
+  {
+    "url": "/assets/images/gallery-cad-detail.jpg",
+    "caption": "Column Beam Connection Section Detail",
+    "type": "AutoCAD Drawings"
+  },
+  {
+    "url": "/assets/images/gallery-site2.jpg",
+    "caption": "Foundation Trench Excavation",
+    "type": "Site Visits"
+  }
+]

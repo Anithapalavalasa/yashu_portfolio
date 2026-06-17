@@ -1,0 +1,29 @@
+[
+  {
+    "degree": "Bachelor of Technology (B.Tech)",
+    "branch": "Civil Engineering",
+    "collegeName": "Swamy Vivekananda Engineering College",
+    "university": "JNTU Kakinada",
+    "cgpa": "71.40%",
+    "startYear": "2017",
+    "endYear": "2021"
+  },
+  {
+    "degree": "Intermediate",
+    "branch": "MPC (Maths, Physics, Chemistry)",
+    "collegeName": "APTWRJ College",
+    "university": "Board of Intermediate Education",
+    "cgpa": "93.99%",
+    "startYear": "2015",
+    "endYear": "2017"
+  },
+  {
+    "degree": "SSC (10th Grade)",
+    "branch": "General Education",
+    "collegeName": "Suvarna High School",
+    "university": "State Board of Secondary Education",
+    "cgpa": "73.00%",
+    "startYear": "2014",
+    "endYear": "2015"
+  }
+]

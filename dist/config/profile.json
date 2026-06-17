@@ -1,0 +1,129 @@
+{
+  "personal": {
+    "fullName": "Yaswanth Terli",
+    "firstName": "Yaswanth",
+    "lastName": "Terli",
+    "title": "Civil CAD Designer | AutoCAD | Revit | BIM Specialist",
+    "location": "Visakhapatnam, Andhra Pradesh, India",
+    "email": "yaswanthterli09@gmail.com",
+    "phone": "+91 9160578774",
+    "whatsapp": "919160578774",
+    "linkedin": "https://linkedin.com/in/yaswanth-terli-civil",
+    "github": "https://github.com/yaswanth-terli",
+    "portfolioUrl": "https://yaswanth-terli.com",
+    "nationality": "Indian",
+    "gender": "Male",
+    "dateOfBirth": "15th August, 2004",
+    "languages": ["Telugu", "English"],
+    "profilePhoto": "/assets/images/profile.jpg",
+    "resumeUrl": "/assets/resume.pdf"
+  },
+  "about": {
+    "summary": "Civil Engineering graduate with strong knowledge of construction materials, concrete technology, CAD drafting, and civil engineering fundamentals. Skilled in analytical thinking, problem solving, documentation, and technical software. Seeking opportunities to contribute to engineering projects while continuously improving professional expertise.",
+    "objective": "To secure a challenging role as a Civil CAD/Revit Designer in a forward-thinking construction or design firm, where I can apply my proficiency in BIM software, drafting standards, and structural detailing to contribute to large-scale infrastructure projects.",
+    "yearsOfExperience": "Fresher (with 6 Months Internship experience)",
+    "currentStatus": "Actively looking for opportunities & available for immediate joining"
+  },
+  "bim": {
+    "knowledge": "Sound understanding of BIM concepts, Level of Development (LOD 100 to LOD 400), and coordination processes.",
+    "modeling": "Expertise in creating detailed 3D architectural and structural models in Revit based on 2D design inputs, ensuring high visual and parametric accuracy.",
+    "clashDetection": "Proficient in federating models and executing clash tests in Autodesk Navisworks to detect spatial interferences between architectural, structural, and MEP disciplines.",
+    "documentation": "Capable of extraction of precise construction drawings, floor plans, sections, elevations, and structural detailing sheets directly from 3D BIM models.",
+    "quantityTakeoff": "Experienced in generating automated materials schedules and quantities takeoffs (QTO) in Revit and MS Excel, minimizing waste and material discrepancies."
+  },
+  "experience": [
+    {
+      "company": "BuildTech Infrastructure Solutions",
+      "position": "Civil Design Intern (AutoCAD & Revit)",
+      "duration": "Dec 2025 - May 2026 (6 Months)",
+      "description": "Assisted senior design engineers in drafting residential submission plans using AutoCAD. Developed Revit 3D architectural models for client presentations. Drafted reinforcement details for structural columns and beams in accordance with IS 456 standards. Extracted material takeoff lists for costing reports."
+    },
+    {
+      "company": "L&T Construction Site Visit Program",
+      "position": "Graduate Trainee Observer",
+      "duration": "Oct 2025 (2 Weeks)",
+      "description": "Observed on-site operations of structural concreting, reinforcement binding, and foundation casting. Correlated site executions with approved structural blueprints to understand drawing interpretation and tolerances."
+    },
+    {
+      "company": "Self-Employed / Freelance",
+      "position": "Freelance CAD Drafter",
+      "duration": "2024 - Present",
+      "description": "Designed and finalized standard floor plan layouts for local individual home owners. Handled conversions of manual hand sketches into standardized digital dwg files for architectural approval."
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Autodesk Certified Professional: Revit for Architectural Design",
+      "organization": "Autodesk",
+      "issueDate": "Jan 2026",
+      "link": "https://www.credly.com/org/autodesk",
+      "image": "/assets/images/cert-autodesk.jpg"
+    },
+    {
+      "name": "Advanced Civil CAD Drafting & BIM Modeling",
+      "organization": "CADD Centre Training Services",
+      "issueDate": "Nov 2025",
+      "link": "https://caddcentre.com",
+      "image": "/assets/images/cert-cadd.jpg"
+    },
+    {
+      "name": "STAAD Pro V8i Structural Analysis & Detailing",
+      "organization": "Bentley Institute Partner Certification",
+      "issueDate": "Jul 2025",
+      "link": "#",
+      "image": "/assets/images/cert-bentley.jpg"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "1st Place - CAD Design Challenge",
+      "description": "Awarded first place among 120 participants in the National CAD Drafting Competition organized during JNTUH TechFest 2025.",
+      "category": "Competitions"
+    },
+    {
+      "title": "Academic Excellence Award",
+      "description": "Received a certificate of appreciation from the Dean of Civil Engineering for maintaining a top 5% rank in structural design modules.",
+      "category": "Academic"
+    },
+    {
+      "title": "Autodesk BIM Workshop Leader",
+      "description": "Selected to coordinate and tutor a 3-day Revit bootcamp for junior students at JNTU College of Engineering.",
+      "category": "Leadership"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Dr. Ramesh Babu",
+      "designation": "Professor & Head of Civil Engineering",
+      "company": "JNTU Hyderabad",
+      "feedback": "Yaswanth possesses exceptional talent in CAD drafting and BIM processes. His design projects demonstrate clarity, structural accuracy, and careful attention to building code guidelines. He is highly capable.",
+      "photo": "/assets/images/test-prof.jpg"
+    },
+    {
+      "name": "Er. Suresh Kumar",
+      "designation": "Senior Structural Consultant",
+      "company": "BuildTech Infrastructure Solutions",
+      "feedback": "Yaswanth proved to be quick at grasping Autodesk Revit structure modeling during his internship. His documentation extraction was precise and fit for production use. He has a bright career in BIM ahead.",
+      "photo": "/assets/images/test-eng.jpg"
+    }
+  ],
+  "services": [
+    { "title": "AutoCAD Drafting", "desc": "Precision 2D architectural plans, elevations, sections, and municipal permit drawings.", "icon": "fa-draw-polygon" },
+    { "title": "BIM Modeling", "desc": "3D parametric modeling and coordination using Revit Architecture and Structure.", "icon": "fa-cube" },
+    { "title": "Revit Design", "desc": "Custom parametric family creation, wall/floor scheduling, and detail extraction.", "icon": "fa-cubes" },
+    { "title": "Quantity Estimation", "desc": "Accurate concrete and steel quantities takeoffs (QTO) and cost estimation reports.", "icon": "fa-calculator" },
+    { "title": "Structural Detailing", "desc": "Reinforcement detailing shop drawings and bar bending schedules conforming to standards.", "icon": "fa-circle-nodes" }
+  ],
+  "statistics": [
+    { "label": "Projects Completed", "value": 15 },
+    { "label": "Years of Experience", "value": 1 },
+    { "label": "CAD Drawings Created", "value": 120 },
+    { "label": "BIM Models Delivered", "value": 25 }
+  ],
+  "faqs": [
+    { "question": "What software do you specialize in?", "answer": "I specialize in AutoCAD, Autodesk Revit (Architecture & Structure), Navisworks, Civil 3D, and Microsoft Excel." },
+    { "question": "What is your typical project delivery workflow?", "answer": "My workflow starts with 2D drafting in AutoCAD, migrating to Revit for 3D BIM modeling, executing clash-detection in Navisworks, and generating construction-ready detailing sheets." },
+    { "question": "Are you open to immediate full-time opportunities?", "answer": "Yes, I have completed my B.Tech and internship, and I am available for immediate joining and relocation if required." },
+    { "question": "Can you handle structural analysis?", "answer": "Yes, I have academic training and project experience using STAAD Pro for framing load calculations and reinforcement scheduling." }
+  ]
+}

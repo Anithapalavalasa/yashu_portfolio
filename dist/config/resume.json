@@ -1,0 +1,28 @@
+{
+  "summary": "Civil Engineering graduate with strong knowledge of construction materials, concrete technology, CAD drafting, and civil engineering fundamentals. Skilled in analytical thinking, problem solving, documentation, and technical software. Seeking opportunities to contribute to engineering projects while continuously improving professional expertise.",
+  "strengths": [
+    "Quick Learner",
+    "Adaptability",
+    "Team Collaboration",
+    "Time Management",
+    "Positive Attitude",
+    "Analytical Thinking",
+    "Problem Solving"
+  ],
+  "languages": [
+    { "name": "Telugu", "fluency": "Native" },
+    { "name": "English", "fluency": "Professional Working Proficiency" }
+  ],
+  "interests": [
+    "Playing Chess",
+    "Listening to Music",
+    "Learning New Technologies"
+  ],
+  "academicProjects": [
+    {
+      "title": "Experimental Study on Waste Materials as Additives in Concrete",
+      "duration": "Academic Year Project",
+      "description": "Conducted an experimental study on Fly Ash and Rice Husk Ash as partial replacements in concrete production to improve sustainability, reduce costs, and evaluate concrete strength and durability. Responsible for: Mix Design Analysis, Material Testing, Data Collection, Documentation, and Report Preparation."
+    }
+  ]
+}
