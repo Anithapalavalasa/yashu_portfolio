@@ -15,7 +15,7 @@
     "gender": "Male",
     "dateOfBirth": "15th August, 2004",
     "languages": ["Telugu", "English"],
-    "profilePhoto": "/assets/images/profile.jpg",
+    "profilePhoto": "/assets/images/pic.jpeg",
     "resumeUrl": "/assets/resume.pdf"
   },
   "about": {
